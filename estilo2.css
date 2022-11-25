@@ -1,0 +1,13 @@
+body {
+    background: rgb(17, 99, 137);
+    color: white;
+    text-align: center;
+}
+
+.cuadro1 {
+    background: rgb(60, 2, 92);
+}
+
+.cuadro1 img {
+    width: 100%;
+}
